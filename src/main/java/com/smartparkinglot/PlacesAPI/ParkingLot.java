@@ -1,4 +1,4 @@
-package org.example;
+package com.smartparkinglot.PlacesAPI;
 
 import com.google.maps.GeoApiContext;
 import com.google.maps.PlacesApi;

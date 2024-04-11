@@ -1,4 +1,4 @@
-package org.example;
+package com.smartparkinglot.PlacesAPI;
 
 public class Main {
     public static void main(String[] args) {
